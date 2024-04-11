@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d7b77c-bc3b-4ec2-a46a-20696d055586" name="Changes" comment="changing chatgpt to generativeai">
-      <change afterPath="$PROJECT_DIR$/askAndrew2.ipynb" afterDir="false" />
+    <list default="true" id="00d7b77c-bc3b-4ec2-a46a-20696d055586" name="Changes" comment="creating new principal file">
+      <change afterPath="$PROJECT_DIR$/askAndrewGPT.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/askAndrew2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/askAndrew2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -22,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;omar11205&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/omar11205/llamaindex_rag.git&quot;,
+    &quot;accountId&quot;: &quot;8f42d4c5-8e48-4d1c-a9b2-c4df522c6811&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -43,13 +58,15 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -65,7 +82,10 @@
       <workItem from="1712708627971" duration="5163000" />
       <workItem from="1712723747319" duration="1490000" />
       <workItem from="1712753299504" duration="4074000" />
-      <workItem from="1712775170616" duration="1555000" />
+      <workItem from="1712775170616" duration="5419000" />
+      <workItem from="1712794923714" duration="3357000" />
+      <workItem from="1712842764951" duration="211000" />
+      <workItem from="1712844141165" duration="1146000" />
     </task>
     <task id="LOCAL-00001" summary="Correcting security">
       <option name="closed" value="true" />
@@ -91,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712775366878</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creating new principal file">
+      <option name="closed" value="true" />
+      <created>1712776841161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712776841161</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +140,7 @@
     <MESSAGE value="Correcting security" />
     <MESSAGE value="Correcting securityd" />
     <MESSAGE value="changing chatgpt to generativeai" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing chatgpt to generativeai" />
+    <MESSAGE value="creating new principal file" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating new principal file" />
   </component>
 </project>
