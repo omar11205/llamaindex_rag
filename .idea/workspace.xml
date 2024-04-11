@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d7b77c-bc3b-4ec2-a46a-20696d055586" name="Changes" comment="creating new principal file">
-      <change afterPath="$PROJECT_DIR$/askAndrewGPT.ipynb" afterDir="false" />
+    <list default="true" id="00d7b77c-bc3b-4ec2-a46a-20696d055586" name="Changes" comment="using another chatgpt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/askAndrew2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/askAndrew2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/askAndrewGPT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/askAndrewGPT.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,8 @@
       <workItem from="1712775170616" duration="5419000" />
       <workItem from="1712794923714" duration="3357000" />
       <workItem from="1712842764951" duration="211000" />
-      <workItem from="1712844141165" duration="1146000" />
+      <workItem from="1712844141165" duration="3621000" />
+      <workItem from="1712851782837" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="Correcting security">
       <option name="closed" value="true" />
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712776841161</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="using another chatgpt">
+      <option name="closed" value="true" />
+      <created>1712845338347</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712845338347</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +149,7 @@
     <MESSAGE value="Correcting securityd" />
     <MESSAGE value="changing chatgpt to generativeai" />
     <MESSAGE value="creating new principal file" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating new principal file" />
+    <MESSAGE value="using another chatgpt" />
+    <option name="LAST_COMMIT_MESSAGE" value="using another chatgpt" />
   </component>
 </project>
